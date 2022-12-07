@@ -4,7 +4,7 @@
 
 - 군집 주행으로 트럭의 연비가 증가, 배출 가스가 감소, 도로 정체가 해소, 운전 인력 대체 효과
 
-![8499_12973_3652](https://user-images.githubusercontent.com/81899557/206139714-2993769f-05a9-48bd-8677-64977bcab0a4.jpg)
+![8499_12973_3652](https://user-images.githubusercontent.com/81899557/206140167-bdce4f5c-ddd4-4f0a-a64d-e4e29ea1146a.jpg)
 
 ## 팀원
 
