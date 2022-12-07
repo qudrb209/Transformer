@@ -27,6 +27,11 @@
 - 초록색 바운딩 박스 탐지 시 속도 업데이트
 - 탐지 실패 속도 0으로 업데이트
 
+## 코드 사용
+# otherwise go forward if no target detected
+    if det is None:
+        robot.forward(0)
+```
 ### 인용글
 
 > https://blog.logi-spot.com/
