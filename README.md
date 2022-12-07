@@ -20,16 +20,18 @@
 
 ![KakaoTalk_20221207_173438398](https://user-images.githubusercontent.com/81899557/206128837-08821e96-3982-45dc-8cb3-6ab592df5983.gif)
 
-
 ## 코드 사용, 업데이트 내용
+
 - 사용할 모델 불러오기
+
 ```python
 from jetbot import ObjectDetector
 
 model = ObjectDetector('ssd_mobilenet_v2_coco.engine')
 ```
 
-* 자동차 label로 변경, speed와 turn_gain값을 변경해서 객체 탐지 후 따라가게 설정
+- 자동차 label로 변경, speed와 turn_gain값을 변경해서 객체 탐지 후 따라가게 설정
+
 ```python
 from jetbot import bgr8_to_jpeg
 
@@ -47,12 +49,14 @@ display(widgets.VBox([
 ]))
 
 ```
+
 ![KakaoTalk_20221207_175717784](https://user-images.githubusercontent.com/81899557/206133960-1353716f-4e31-457a-a563-69e842c2f4c1.gif)
--2ㄴ
+
     * 초록색 바운딩 박스 탐지 시 속도 업데이트
     * 탐지 실패 속도 0으로 업데이트
 
 - forward 0으로 수정해 자동차 label이 아닌 객체가 탐지되면 스피드를 0으로 바뀌며 멈춤
+
 ```python
 # otherwise go forward if no target detected
     if det is None:
