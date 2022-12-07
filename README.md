@@ -12,15 +12,15 @@
 
 ## 직진 및 정지
 
-![KakaoTalk_20221207_172759268](https://user-images.githubusercontent.com/81899557/206127508-f0c9ba91-8f95-4d52-8535-e49d1224c590.gif)
+<img src="https://user-images.githubusercontent.com/81899557/206127508-f0c9ba91-8f95-4d52-8535-e49d1224c590.gif)"width="200" height="400"/>
 
 ## 커브
 
-![KakaoTalk_20221207_173438398](https://user-images.githubusercontent.com/81899557/206128837-08821e96-3982-45dc-8cb3-6ab592df5983.gif)
+<img src="https://user-images.githubusercontent.com/81899557/206128837-08821e96-3982-45dc-8cb3-6ab592df5983.gif)"width="200" height="400"/>
 
 ## 업데이트 내역
 
-![KakaoTalk_20221207_175717784](https://user-images.githubusercontent.com/81899557/206133960-1353716f-4e31-457a-a563-69e842c2f4c1.gif)
+<img src="https://user-images.githubusercontent.com/81899557/206133960-1353716f-4e31-457a-a563-69e842c2f4c1.gif"width="200" height="400"/>
 
 - 코드
 
