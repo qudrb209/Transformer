@@ -4,12 +4,12 @@
 
 - 군집 주행으로 트럭의 연비가 증가, 배출 가스가 감소, 도로 정체가 해소, 운전 인력 대체 효과
 
-<img width="412" alt="image" src="https://user-images.githubusercontent.com/81899557/206132150-4a65a7af-7954-41e3-a8b8-54bf36956281.png">
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/81899557/206139253-cbbaa37e-4eff-4eb4-a6b6-8b3e27e31b31.png">
 
 ## 팀원
 
 - 20197120 이병규
-- 20197118 강지훈1
+- 20197118 강지훈
 - 20197124 하상욱
 
 ## 직진 및 정지
