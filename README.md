@@ -62,7 +62,3 @@ display(widgets.VBox([
     if det is None:
         robot.forward(0)
 ```
-
-### 인용글
-
-> https://blog.logi-spot.com/
